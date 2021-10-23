@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1634950292 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\destino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"destino.h"
+
+1634939386 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\fecha.c
+
+1634937221 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+
+1634937222 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\inputs.h
+
+1634951014 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"avion.h"
+	"aerolinea.h"
+	"tipo.h"
+	"destino.h"
+	"vuelo.h"
+
+1634942317 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1634942067 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\tipo.h
+
+1634951034 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\vuelo.c
+	<stdio.h>
+	<stdlib.h>
+	"vuelo.h"
+
+1634942354 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\aerolinea.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"aerolinea.h"
+
+1634942270 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\aerolinea.h
+
+1634948040 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\destino.h
+
+1634950715 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\avion.h
+	"aerolinea.h"
+	"tipo.h"
+
+1634949173 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\vuelo.h
+	"fecha.h"
+	"avion.h"
+	"destino.h"
+
+1634939884 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\fecha.h
+
+1634951014 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\avion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+	"avion.h"
+	"aerolinea.h"
+	"tipo.h"
+
