@@ -9,5 +9,6 @@ typedef struct{
 }eDestino;
 
 int mostrarDestinos(eDestino destinos[], int tamDest);
+int cargarDescripcionDestinos(eDestino destinos[], int tamDest, int idDestino, char descripcion[], int* precio);
 
 #endif // DESTINO_H_INCLUDED

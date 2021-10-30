@@ -1,11 +1,14 @@
 # depslib dependency file v1.0
-1634950292 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\destino.c
+1635538273 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\destino.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	"destino.h"
 
-1634939386 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\fecha.c
+1635534676 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\fecha.c
+	<stdlib.h>
+	<stdio.h>
+	"fecha.h"
 
 1634937221 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\inputs.c
 	<stdio.h>
@@ -16,7 +19,7 @@
 
 1634937222 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\inputs.h
 
-1634951014 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\main.c
+1635552852 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\main.c
 	<stdio.h>
 	<stdlib.h>
 	"avion.h"
@@ -24,6 +27,7 @@
 	"tipo.h"
 	"destino.h"
 	"vuelo.h"
+	"piloto.h"
 
 1634942317 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\tipo.c
 	<stdio.h>
@@ -33,10 +37,11 @@
 
 1634942067 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\tipo.h
 
-1634951034 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\vuelo.c
+1635548368 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\vuelo.c
 	<stdio.h>
 	<stdlib.h>
 	"vuelo.h"
+	"inputs.h"
 
 1634942354 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\aerolinea.c
 	<stdio.h>
@@ -46,20 +51,22 @@
 
 1634942270 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\aerolinea.h
 
-1634948040 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\destino.h
+1635537280 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\destino.h
 
-1634950715 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\avion.h
+1635554658 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\avion.h
 	"aerolinea.h"
 	"tipo.h"
+	"piloto.h"
 
-1634949173 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\vuelo.h
+1635548027 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\vuelo.h
 	"fecha.h"
 	"avion.h"
 	"destino.h"
+	"piloto.h"
 
-1634939884 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\fecha.h
+1635536899 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\fecha.h
 
-1634951014 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\avion.c
+1635548194 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\avion.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -67,4 +74,13 @@
 	"avion.h"
 	"aerolinea.h"
 	"tipo.h"
+	"piloto.h"
+
+1635546889 c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\piloto.h
+
+1635547120 source:c:\users\fabri\desktop\finelli.fabrizio.p1.labi1g\piloto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"piloto.h"
 
